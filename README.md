@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, GitHub! 👋
 
-<!--
-**Ckevin99/Ckevin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Kevin Correia, a Computer Science student at BYUI. I have a passion for solving problems and improving processes, which drives my interest in software development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning Back-end Development through a personal project.
+- Aspiring Software Engineer with a strong focus on continuous learning.
+
+## Technologies and Tools
+
+- **Proficient in:** Python, JavaScript, HTML, CSS, Django, Kotlin
+- **Skills:** Troubleshooting, Data Structures, Multithreading
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/kevincorreia99/)
