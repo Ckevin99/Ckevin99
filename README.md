@@ -1,6 +1,6 @@
 ## Hello, GitHub! 👋
 
-I'm [Kevin Correia, a Computer Science student at BYUI. I have a passion for solving problems and improving processes, which drives my interest in software development.
+I'm Kevin Correia, a Computer Science student at BYUI. I have a passion for solving problems and improving processes, which drives my interest in software development.
 
 ## About Me
 
