@@ -13,9 +13,9 @@ I'm Kevin Correia, a Computer Science student at BYUI. I have a passion for solv
 - **Skills:** Troubleshooting, Data Structures, Multithreading
 
 ## Projects
-  -RPG-Game - Python(Django), frontend, SQL
-  -Simple-Chat - Python, rsa
-  -TaskScheduler - Kotlin, Android Studio
+  -**RPG-Game** - Python(Django), frontend, SQL
+  -**Simple-Chat** - Python, rsa
+  -**TaskScheduler** - Kotlin, Android Studio
 
 ## Let's Connect!
 
