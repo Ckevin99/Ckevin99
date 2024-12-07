@@ -14,7 +14,7 @@ I'm Kevin Correia, a Computer Science student at BYUI. I have a passion for solv
 
 ## Projects
   - **RPG-Game** - Python(Django), frontend, SQL
-  - **Simple-Chat** - Python, rsa
+  - **Simple-Chat** - Python, rsa, threading
   - **TaskScheduler** - Kotlin, Android Studio
 
 ## Let's Connect!
