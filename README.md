@@ -21,7 +21,8 @@ I'm Kevin Correia, a Computer Science student at BYUI. I have a passion for solv
   - **Simple-Chat** - Python, rsa, threading
   - **TaskScheduler** - Kotlin, Android Studio
 
-   [![Ckevin99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ckevin99&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats
+   [![Ckevin99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ckevin99&show_icons=true&theme=radical&from=2024-01-01&to=2024-12-31)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Let's Connect!
 
