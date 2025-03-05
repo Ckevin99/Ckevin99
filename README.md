@@ -12,6 +12,8 @@ I'm Kevin Correia, a Computer Science student at BYUI. I have a passion for solv
 - **Proficient in:** Python, JavaScript, HTML, CSS, Django, Kotlin
 - **Skills:** Troubleshooting, Data Structures, Multithreading
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckevin99&layout=compact)](https://github.com/Ckevin99/github-readme-stats
+
 ## Projects
   - **RPG-Game** - Python(Django), frontend, SQL
   - **Simple-Chat** - Python, rsa, threading
